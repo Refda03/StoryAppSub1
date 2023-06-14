@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTitleBarStyle" parent="Theme.StoryApp">
+        <item name="android:titleTextStyle">@style/MyTitleTextStyle</item>
+    </style>
+
+    <style name="MyTitleTextStyle" parent="MyTitleBarStyle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
